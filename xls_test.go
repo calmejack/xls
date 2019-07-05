@@ -38,6 +38,7 @@ func TestEuropeString(t *testing.T) {
 	fmt.Println(string(runes))
 }
 
+
 // func TestOpen1(t *testing.T) {
 // 	xlFile, _ := Open("000.xls", "")
 // 	for i := 0; i < xlFile.NumSheets(); i++ {
